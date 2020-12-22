@@ -38,12 +38,7 @@
 	?>
 	<style>
 	
-	.phpcoding
-	{
-		width:960px; 
-		margin:50 auto; 
-		background:#008CBA;
-	}
+	.phpcoding{width:960px;margin:50 auto;background:white;}
 	</style>
 	
 <div class="phpcoding">

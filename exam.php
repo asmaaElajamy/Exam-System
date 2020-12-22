@@ -5,7 +5,7 @@
 <style>
 .segment{
 height: 150px;
-margin-left: 250px;
+margin-left: 265px;
 padding-top: 20px;
 width: 350px;
 }
